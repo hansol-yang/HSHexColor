@@ -12,13 +12,13 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		3DDC6D7C7B980ECBB5902771 /* HSHexColor.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = HSHexColor.podspec; path = ../HSHexColor.podspec; sourceTree = "<group>"; };
+		3DDC6D7C7B980ECBB5902771 /* HSHexColor.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = HSHexColor.podspec; path = ../HSHexColor.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		607FACE51AFB9204008FA782 /* HSHexColor_Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HSHexColor_Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACEA1AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		607FACEB1AFB9204008FA782 /* Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests.swift; sourceTree = "<group>"; };
-		71B0B448C0F1B1ABE15B74FB /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		71B0B448C0F1B1ABE15B74FB /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		78F301C86068763992DF7BDF /* Pods_HSHexColor_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HSHexColor_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		87C8807C4E4C485C79F36EC0 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		87C8807C4E4C485C79F36EC0 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		AD4C35B1F8F9ACB4255CC13A /* Pods-HSHexColor_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HSHexColor_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-HSHexColor_Tests/Pods-HSHexColor_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		D4AED0C0ABB2DDBF956549D0 /* Pods-HSHexColor_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HSHexColor_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-HSHexColor_Tests/Pods-HSHexColor_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -130,10 +130,6 @@
 				LastUpgradeCheck = 0830;
 				ORGANIZATIONNAME = CocoaPods;
 				TargetAttributes = {
-					607FACCF1AFB9204008FA782 = {
-						CreatedOnToolsVersion = 6.3.1;
-						LastSwiftMigration = 0900;
-					};
 					607FACE41AFB9204008FA782 = {
 						CreatedOnToolsVersion = 6.3.1;
 						LastSwiftMigration = 0900;

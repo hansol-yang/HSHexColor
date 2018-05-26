@@ -1,0 +1,6 @@
+framework module HSHexColor {
+  umbrella header "HSHexColor-umbrella.h"
+
+  export *
+  module * { export * }
+}

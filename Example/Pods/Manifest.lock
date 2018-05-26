@@ -1,0 +1,16 @@
+PODS:
+  - HSHexColor (0.1.0)
+
+DEPENDENCIES:
+  - HSHexColor (from `../`)
+
+EXTERNAL SOURCES:
+  HSHexColor:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HSHexColor: f5f42945fc401a5380eb4c45e292bd3c2aaad0fa
+
+PODFILE CHECKSUM: 8474039f865975e406c8916850f4420b450d71b9
+
+COCOAPODS: 1.5.2

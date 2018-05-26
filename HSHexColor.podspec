@@ -9,7 +9,8 @@
 Pod::Spec.new do |s|
   s.name             = 'HSHexColor'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of HSHexColor.'
+  s.summary          = 'HSHexColor lib. for initialization of UIColor by hex.'
+  s.swift_version 	 = '4.1'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -17,9 +18,7 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = <<-DESC
-TODO: Add long description of the pod here.
-                       DESC
+  s.description      = 'An experimental sample library that adds UIColor\'s initialization functions.'
 
   s.homepage         = 'https://github.com/hansol-yang/HSHexColor'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
