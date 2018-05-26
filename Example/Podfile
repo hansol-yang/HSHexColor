@@ -1,0 +1,6 @@
+use_frameworks!
+target 'HSHexColor_Tests' do
+  pod 'HSHexColor', :path => '../'
+  
+  
+end
